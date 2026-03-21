@@ -1,0 +1,21 @@
+main{
+    width: 680px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 200px;
+    line-height: 200px;
+    color: #000000;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-size: 20px;
+    color: #666666;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #cccccc;
+}
